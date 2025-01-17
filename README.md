@@ -1,0 +1,1 @@
+Toy problem for using Gaussian process (GP) regression as a surrogate model for complicated objective functions. Requires samplers.py, plot_utils.py, and distribution_functions.py from https://github.com/eriksson-benjamin/utilities for the toy problem to work.
